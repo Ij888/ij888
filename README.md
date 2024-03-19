@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | IDS/Zeek Network Monitoring     | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Proposal for prototyping of an HSM using pfsense and Raspberry Pi  | Hardware Prototyping|
+
 
 ## Tools
 
@@ -54,3 +54,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Proposal for prototyping an HSM using pfsense, NodeJS and Raspberry Pi
+- Set up a honeypot
+- WAZUH to SOAR implementation
