@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project        |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Setup a Honeypot           | <a href="https://google.com">Detection Lab</a>|
